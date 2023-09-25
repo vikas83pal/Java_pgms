@@ -6,5 +6,8 @@ public class DataTypes {
           System.out.println("Enter The a Value:");
           int a=scn.nextInt();
           System.out.println(a);
+           System.out.println("Enter The b Value:");
+          int a=scn.nextInt();
+          System.out.println(b);
      }
 }
