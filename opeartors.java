@@ -2,8 +2,8 @@ public class opeartors {
      public static void main(String[] args) {
 
           // Arithmetic Operators
-          int a = 10;
-          int b = 5;
+          int a = 1;
+          int b = 2   ;
           int sum = a + b;
           int difference = a - b;
           int product = a * b;
